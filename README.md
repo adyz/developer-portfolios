@@ -30,6 +30,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
 - [Adityakumar Sinha](https://aditya113141.github.io/)
+- [Adrian Florescu](https://adrianf.com/)
 - [Agney Menon](https://agney.dev)
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
